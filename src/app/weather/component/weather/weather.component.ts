@@ -66,7 +66,7 @@ relativeHumidity: number[] = [];
         scales: {
           y:{
             beginAtZero:true,
-            display: true,//'Temperature (°F)'
+            display: true,
           },
           x:{
             display: true,
